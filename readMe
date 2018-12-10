@@ -1,0 +1,6 @@
+public class Phone{
+  private String number;
+  public phone(String id){
+   this.id=id;
+  }
+}
